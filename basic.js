@@ -14,4 +14,7 @@ console.log(upi);
 const footer = "footer added in our website";
 console,log(footer);
 
-console.log("latest update )
+console.log("latest update" );
+
+    // i am fixing some bugs in the code
+console.log("bug fixed");    
